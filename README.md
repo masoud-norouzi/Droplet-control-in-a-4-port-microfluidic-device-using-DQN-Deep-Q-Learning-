@@ -1,4 +1,4 @@
-# Droplet-control-in-a-4-port-microfluidic-device-using-DQN-Deep-Q-Learning-
+# Droplet control in a 4 port microfluidics device using DQN (Deep Q-Learning)
 
 To setut, import, and create the custom environment:
 * Download the custom environment zip file and extract it in the target directory in your computer
